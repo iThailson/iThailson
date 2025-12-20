@@ -10,7 +10,7 @@
 
 <p style="font-family: Tahoma;">
 I’m a passionate learner who loves transforming ideas into clean and functional solutions.  
-Focused on writing fast, reliable, and readable code across <strong>Game Development</strong> and <strong>Web Projects</strong>.  
+Focused on writing fast, reliable, and readable code across <b>Game Development</b> and <b>Web Projects</b>.  
 Always pushing forward to improve, experiment, and create meaningful digital experiences.
 </p>
 
