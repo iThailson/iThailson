@@ -71,13 +71,13 @@ Always pushing forward to improve, experiment, and create meaningful digital exp
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/iThailson">
+  <a href="https://github.com/iThailson" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-THAILSON-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/thailson/">
+  <a href="https://www.linkedin.com/in/thailson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Thailson-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/thailson.13">
+  <a href="https://instagram.com/thailson.13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@THAILSON.13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
