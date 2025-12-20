@@ -4,10 +4,8 @@ I'm a **software developer from Brazil**, currently at the **beginner stage** bu
 
 - 💙 **Blue is my color** — it inspires creativity and calm in my workflow
 - ☕ **A good coffee is my fuel** — essential for long coding sessions and creative breakthroughs
-- 🍜 I'm a fan of **Yakisoba and kung pao chicken** — my go-to meals while deep in development
 - 🎮 I specialize in **game development and game tools**, using **C++, Lua, and Python** to create engaging experiences
 - 🌐 On the web side, I work with **JavaScript, HTML, CSS, PHP, and PostgreSQL**, building responsive and interactive applications
-- 🧩 I value **modular architecture, automation, and elegant solutions** in every project
 
 ---
 
@@ -43,10 +41,6 @@ I'm a **software developer from Brazil**, currently at the **beginner stage** bu
 - Building responsive and interactive frontends
 - Integrating backend logic and APIs
 - Using PostgreSQL for data management and analytics
-
-### 📚 Sharing Knowledge
-
-- Teaching and mentoring in game and web development
 
 ---
 
