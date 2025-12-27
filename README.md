@@ -125,7 +125,7 @@
 <h2 style="font-family: Tahoma;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=iThailson&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /> -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iThailson&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iThailson&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
